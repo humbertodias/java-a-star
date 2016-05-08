@@ -1,6 +1,6 @@
-# Java Data Structure Algoritms
+# Java A*
 
-DSA using Java
+A* using Java
 
 
 ## Prerequires
@@ -15,13 +15,13 @@ DSA using Java
 Clone
 
 ```
-git clone https://github.com/humbertodias/java-data-structures-algorithms.git
+git clone https://github.com/humbertodias/java-a-star.git
 ```
 
 Inside the folder
 
 ```
-cd java-data-structures-algorithms
+cd java-a-star
 ```
 
 Run
